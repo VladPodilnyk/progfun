@@ -20,3 +20,6 @@ project/plugins/project/
 # coursera
 assignment.sbt
 scalastyle/
+
+# ignore Metals
+.metals/
